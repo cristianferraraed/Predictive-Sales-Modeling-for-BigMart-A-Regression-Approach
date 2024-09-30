@@ -1,6 +1,4 @@
-# BigMart Sales Prediction Analysis - Regression
-
-**Complete Video Tutorial:** https://youtu.be/CD58mco2XqA
+# Predictive Sales Modeling for BigMart: A Regression Approach
 
 # Dataset Information
 
@@ -24,7 +22,7 @@ Outlet_Location_Type | The type of city in which the store is located
 Outlet_Type | Whether the outlet is just a grocery store or some sort of supermarket
 Item_Outlet_Sales | Sales of the product in the particulat store. This is the outcome variable to be predicted.
 
-**Download link:** https://www.kaggle.com/devashish0507/big-mart-sales-prediction
+
 
 # Libraries
 
